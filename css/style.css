@@ -6,4 +6,7 @@ h5 {
     color: rgb(233, 205, 169);
 }
 
-.gg {}
+.bc-color {
+    background-color: rgb(213, 213, 211);
+    padding: 40px;
+}
